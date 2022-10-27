@@ -1,0 +1,15 @@
+.wd{
+    padding: 40px;
+    margin-top: 5%;
+    width: 70%;
+    margin-left: 15%;
+    background-color: darkgoldenrod;
+    border-radius: 15px;
+    box-shadow: 20px 20px 20px black;
+}
+.LOGIN{
+    text-align: center;
+}
+.white{
+    color: white;
+}
